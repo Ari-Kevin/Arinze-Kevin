@@ -17,51 +17,35 @@ const Project = () => {
     const projects = [
         {
             title: "Hangman game",
-            description: "A fun word game to find the missing puzzle.",
-            github: "https://github.com/Nnvemeka/butiq",
-            live: "https://butiq.netlify.com",
+            description: "A fun word game to find the missing puzzle. This is for laptop's only",
+            github: "https://github.com/Arinze-Kevin/Hangman-game",
+            live: "hangman-game-livid.vercel.app",
             stack: "JavaScript",
             isPrivate: false
         },
         {
-            title: "Todo App",
-            description: "A web app to list your todo list for the day.",
-            github: "",
-            live: "https://github.com/Nnvemeka/task-manager-api",
-            stack: "JavaScript",
+            title: "House marketplace",
+            description: "A house market website to rent, sell or buy houses",
+            github: "https://github.com/Arinze-Kevin/House-Marketplace",
+            live: "https://house-marketplace.vercel.app/",
+            stack: "Firebase + React",
             isPackage: true,
             isPrivate: true
         },
         {
             title: "Note App",
-            description: "Keep track of your expenses!",
-            github: "https://github.com/Nnvemeka/expensify-app",
-            live: "https://nnv-expensify-app.herokuapp.com",
+            description: "A webb app to jot down quick thoughts or to save longer notes",
+            github: "https://github.com/Arinze-Kevin/Note-App",
+            live: "note-app-orcin.vercel.app",
             stack: "JavaScript",
             isPrivate: false
         },
         {
-            title: "Chat App",
-            description: "Create a chat room and enjoy your conversation.",
-            github: "https://github.com/Nnvemeka/chat-app",
-            live: "https://nnv-chat.herokuapp.com",
-            stack: "NodeJS + SocketIO + Express",
-            isPrivate: false
-        },
-        {
-            title: "Indecision",
-            description: "What do you want to do? Let this application help you decide!",
-            github: "https://github.com/Nnvemeka/Indecision-app",
-            live: "https://nnv-indecision.netlify.app",
-            stack: "ReactJS",
-            isPrivate: false
-        },
-        {
-            title: "Weather App",
-            description: "Weather forcast application.",
-            github: "https://github.com/Nnvemeka/weather-app",
-            live: "https://nnv-weather-application.herokuapp.com",
-            stack: "NodeJs + Express",
+            title: "Todo list",
+            description: "A web app to list your todo list.",
+            github: "https://github.com/Arinze-Kevin/Todo-App",
+            live: "todo-app-ari-kevin.vercel.app",
+            stack: "JavaScript",
             isPrivate: false
         }
     ]

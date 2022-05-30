@@ -31,10 +31,10 @@ const Resume = () => {
         <div className="resume">
             <div className="resume_container">
                 <div className="top_row">
-                    <h1>Edward Ugwu</h1>
+                    <h1>Arinze Kevin</h1>
                     <div className="buttons">
                         <a
-                            href="https://www.linkedin.com/in/nnvemeka/"
+                            href="https://www.linkedin.com/in/arinzekevin"
                         >
                             <small>
                                 <i className="fab fa-linkedin"></i> <span>Linked In</span>
