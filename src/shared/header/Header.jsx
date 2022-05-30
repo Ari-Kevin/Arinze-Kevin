@@ -10,7 +10,7 @@ const Header = () => {
             <div className="header_wrapper">
                 <div className="logo_container">
                 <Link to="/" style={{textDecoration: "none", fontSize: 30, fontWeight: "bold", color: "white"}}>
-                    Nnvemeka.
+                    Arinze Kevin.
                 </Link>
                 </div>
                 <div className="menu_btn_wrapper">

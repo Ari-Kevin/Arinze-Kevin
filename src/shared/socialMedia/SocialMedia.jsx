@@ -25,7 +25,7 @@ const SocialMedia = () => {
         <i className="fab fa-twitter"></i>
       </a>
       <a
-        href="mailto:nnvedward@gmail.com"
+        href="mailto:egboguarinze@gmail.com"
         target="_blank"
         rel="noopener noreferrer"
       >

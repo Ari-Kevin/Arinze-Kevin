@@ -6,38 +6,38 @@ import './Project.css'
 const Project = () => {
     const featuredProjects = [
         {
-            title: "Task Manager Api",
-            description: "Rest Api for managing your task",
+            title: "House marketplace",
+            description: "A house market website to rent, sell or buy houses",
             github: "",
             live: "",
-            stack: "MongoDB + Express + React + Node JS",
+            stack: "Firebase + React",
             isPrivate: false
         }
     ]
     const projects = [
         {
-            title: "Butiq",
-            description: "An E-commerce store for Fashion & Style.",
+            title: "Hangman game",
+            description: "A fun word game to find the missing puzzle.",
             github: "https://github.com/Nnvemeka/butiq",
             live: "https://butiq.netlify.com",
-            stack: "MongoDB + Express + ReactJS + NodeJS",
+            stack: "JavaScript",
             isPrivate: false
         },
         {
-            title: "Task Manager Api",
-            description: "Rest API for managing your task.",
+            title: "Todo App",
+            description: "A web app to list your todo list for the day.",
             github: "",
             live: "https://github.com/Nnvemeka/task-manager-api",
-            stack: "MongoDB + Express + NodeJS",
+            stack: "JavaScript",
             isPackage: true,
             isPrivate: true
         },
         {
-            title: "Expensify",
+            title: "Note App",
             description: "Keep track of your expenses!",
             github: "https://github.com/Nnvemeka/expensify-app",
             live: "https://nnv-expensify-app.herokuapp.com",
-            stack: "ReactJS + Firebase + Redux",
+            stack: "JavaScript",
             isPrivate: false
         },
         {

@@ -8,7 +8,7 @@ const Biography = ({ active }) => {
     <div className="base_container">
       <div className="hero">
         <div className="intro_box">
-          <h1>Hello, I'm Edward Ugwu.</h1>
+          <h1>Hello, I'm Arinze Kevin.</h1>
           <div className="avi">
             <img src="https://i.ibb.co/bL9XHjg/IMG-01117.jpg" alt="avatar" />
           </div>
@@ -84,7 +84,7 @@ const Biography = ({ active }) => {
           </a>
 
           <a
-            href="mailto:nnvedward@gmail.com"
+            href="mailto:egboguarinze@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >

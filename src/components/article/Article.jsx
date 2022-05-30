@@ -5,8 +5,8 @@ import Button from "../../shared/button/Button";
 const Article = () => {
   const articles = [{
     id: 1,
-    tags: 'Nnvemeka',
-    url: 'nnvemeka.dev',
+    tags: 'Arinze Kevin',
+    url: 'arinzekevin.com',
     first_publication_date: 'April 30, 2022',
     data: {
       title: 'Coming soon!',
