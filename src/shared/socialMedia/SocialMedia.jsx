@@ -18,7 +18,7 @@ const SocialMedia = () => {
         <i className="fab fa-linkedin"></i>
       </a>
       <a
-        href="https://twitter.com/iam_arinzekevin"
+        href="https://twitter.com/iam_ArinzeKevin"
         target="_blank"
         rel="noopener noreferrer"
       >

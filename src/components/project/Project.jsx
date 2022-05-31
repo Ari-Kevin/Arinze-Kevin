@@ -17,7 +17,7 @@ const Project = () => {
     const projects = [
         {
             title: "Hangman game",
-            description: "A fun word game to find the missing puzzle. This is for laptop's only",
+            description: "A fun word game to find the missing puzzle. This is for laptop's only!",
             github: "https://github.com/Arinze-Kevin/Hangman-game",
             live: "hangman-game-livid.vercel.app",
             stack: "JavaScript",
@@ -34,7 +34,7 @@ const Project = () => {
         },
         {
             title: "Note App",
-            description: "A webb app to jot down quick thoughts or to save longer notes",
+            description: "A web app to jot down quick thoughts or to save longer notes",
             github: "https://github.com/Arinze-Kevin/Note-App",
             live: "note-app-orcin.vercel.app",
             stack: "JavaScript",

@@ -7,16 +7,19 @@ const Biography = ({ active }) => {
   return (
     <div className="base_container">
       <div className="hero">
-        <div className="intro_box">
+        <div className="intro_box"> 
           <h1>Hello, I'm Arinze Kevin.</h1>
           <div className="avi">
-            <img src="https://i.ibb.co/bL9XHjg/IMG-01117.jpg" alt="avatar" />
+            <img src="https://www.linkpicture.com/q/AB7639CE-1CB5-4325-B34E-D77EF3DF462C.jpeg" alt="avatar" />
           </div>
+        </div>
+        <div className="intro_box">
+        <h3>A Software Developer</h3>
         </div>
         <div className="description">
           <p>
             <span>
-              I'm a <span className="highlight">Software developer.</span> I build <span className="highlight">web applications</span> and <span className="highlight">scalable APIs</span> using modern <span className="highlight">web technologies.</span>
+             I build <span className="highlight">web applications</span> and <span className="highlight">scalable APIs</span> using modern <span className="highlight">web technologies.</span>
             </span>
           </p>
         </div>
@@ -59,10 +62,10 @@ const Biography = ({ active }) => {
         </ul>
       </nav>
       <div className="footer">
-        <img src="https://i.ibb.co/bL9XHjg/IMG-01117.jpg" alt="avatar" />
+        <img src="https://www.linkpicture.com/q/AB7639CE-1CB5-4325-B34E-D77EF3DF462C.jpeg" alt="avatar" />
         <div className="social">
           <a
-            href="https://github.com/Nnvemeka"
+            href="https://github.com/Arinze-Kevin"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -70,7 +73,7 @@ const Biography = ({ active }) => {
           </a>
 
           <a
-            href="https://twitter.com/nnvemeka"
+            href="https://twitter.com/iam_ArinzeKevin"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -78,7 +81,7 @@ const Biography = ({ active }) => {
           </a>
           
           <a
-            href="https://www.linkedin.com/in/nnvemeka/">
+            href="https://www.linkedin.com/in/arinzekevin">
             <i className="fab fa-linkedin"></i>Linkedin {" "}
             <span>{"  "}</span>
           </a>

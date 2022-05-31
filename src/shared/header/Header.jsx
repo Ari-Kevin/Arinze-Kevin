@@ -57,16 +57,16 @@ const Header = () => {
                             <div className="social_box">
                                 <h3>You Can Find Me On</h3>
                                 <div className="social_icons">
-                                    <a href="https://github.com/Nnvemeka">
+                                    <a href="https://github.com/Arinze-Kevin">
                                         <i className="fab fa-github"></i>
                                     </a>
-                                    <a href="https://twitter.com/nnvemeka">
+                                    <a href="https://twitter.com/iam_ArinzeKevin">
                                         <i className="fab fa-twitter"></i>
                                     </a>
-                                    <a href="https://www.linkedin.com/in/nnvemeka/">
+                                    <a href="https://www.linkedin.com/in/arinzekevin">
                                         <i className="fab fa-linkedin"></i>
                                     </a>
-                                    <a href="mailto:nnvedward@gmail.com">
+                                    <a href="mailto:egboguarinze@gmail.com">
                                         <i className="fas fa-at"></i>
                                     </a>
                                 </div>

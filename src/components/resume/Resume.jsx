@@ -3,26 +3,23 @@ import ResumeCard from "../../shared/resumeCard/ResumeCard";
 import { Link } from 'react-router-dom'
 import Button from "../../shared/button/Button";
 import './Resume.css'
-import pdf from '../../static/Ugwu-Edward-Nnaemeka.pdf'
+import pdf from '../../static/Egbogu Arinze Kevin.pdf'
 
 const Resume = () => {
     const experiences = [
         {
-            company: "BlueTag Technologies",
+            company: "Freelance",
             position: "Software Developer",
-            started: "Sept 2020",
+            started: "Aug 2021",
             ended: null,
             description:
-                " Developing software applications (coding, programming) in compliance with acceptable industry ethics, protocols and standards.",
+                " I am currently learning web3 technologies.",
             achievements: [
-                "Created highly responsive and scalable web applications for use in different industries and client environments.",
-                "Enhanced applications and improved performance using testing and validations against requirements and performance standards.",
-                "Developed, designed, tested, and debugged applications from foundation to full production.",
-                "Coordinated concepts, libraries, and style guides for development team.",
-                "Helped manage fast-paced software delivery model from within complex development ecosystem.",
-                "Tracked changes and seamlessly merged codes from different features and updates to manage versions.",
-                "Met application goals with expert use of optimal development tools and frameworks.",
-                "Enhanced Web sites and applications by developing robust databases."
+                "Created highly responsive web applications with great user experience for clients.",
+                "Worked with a team of developers to build and manage a company's website.",
+                "Worked with a team of developers to build a fintech startup.",
+                "Code testing and debugging",
+                "Developed and designed web applications from foundation to full production."
             ],
         }
     ]
@@ -52,8 +49,10 @@ const Resume = () => {
                 <p>Software Developer</p>
                 <div className="summary">
                     <p>
-                    I have a grounded knowledge and experience for building a functional, scalable and efficient web application
-                    that satisfies the need of the end-user with the core web development stacks.
+                    I'm a self motivated, resourceful, ambitious and hardworking software developer,
+                    passionate about solving problems with code and bringing ideas to life. I'm well experienced 
+                    with building scalable and functional web applications with user experience as a top 
+                    priority using various development tools and frameworks.
                     </p>
                 </div>
                 <div className="divider">
@@ -62,8 +61,8 @@ const Resume = () => {
                 </div>
                 <div className="skills">
                     <p>
-                        Javascript [ES6+], MongoDB, Express, React JS, Node JS,
-                         Firebase, HTML/CSS/SASS, MySQL, C#
+                        HTML, CSS, Javascript [ES6+], ReactJS,
+                         Firebase.
                     </p>
                 </div>
                 <div className="divider">
