@@ -3,7 +3,7 @@ import ResumeCard from "../../shared/resumeCard/ResumeCard";
 import { Link } from 'react-router-dom'
 import Button from "../../shared/button/Button";
 import './Resume.css'
-import pdf from '../../static/Egbogu Arinze Kevin.pdf'
+import pdf from '../../static/Egbogu-Arinze-Kevin (1).pdf'
 
 const Resume = () => {
     const experiences = [

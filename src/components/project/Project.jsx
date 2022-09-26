@@ -24,10 +24,19 @@ const Project = () => {
             isPrivate: false
         },
         {
-            title: "House marketplace",
-            description: "A house market website to rent, sell or buy houses",
-            github: "https://github.com/Arinze-Kevin/House-Marketplace",
+            title: "Weather App",
+            description: "A weather application is a based application to get weather updates and forecast",
+            github: "https://github.com/Arinze-Kevin/weather-app",
             live: "https://house-marketplace.vercel.app/",
+            stack: "Node + Express",
+            isPackage: true,
+            isPrivate: true
+        },
+        {
+            title: "Expensify App",
+            description: "An Expenses tracker application, that helps users to track their day to day expenses.",
+            github: "https://github.com/Arinze-Kevin/Expensify-app",
+            live: "https://react-expensify-app1.herokuapp.com/",
             stack: "Firebase + React",
             isPackage: true,
             isPrivate: true
